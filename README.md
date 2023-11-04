@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Robin6934
-- 👀 I’m interested in C#,Python,Java
+- 👀 I’m interested in C#, Java
 - 🌱 I’m currently learning back end development with Spring Boot
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
